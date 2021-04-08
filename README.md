@@ -27,14 +27,14 @@ In my own words,\
     }
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) Insert the code to create a child process at line 8 of the code in Figure 2 using the variable define at line 7.
-&nbsp;&nbsp;&nbsp;&nbsp;b) Beginning at line 9 insert the line(s) of code to check for the parent and child process created.
-&nbsp;&nbsp;&nbsp;&nbsp;c) Insert the code at line 10 in Figure 2 into the child process.
-&nbsp;&nbsp;&nbsp;&nbsp;d) Insert the code at line 12 in Figure 2 into the parent process.
-&nbsp;&nbsp;&nbsp;&nbsp;e) Specify the code that should be placed at item labeled <1>.
-&nbsp;&nbsp;&nbsp;&nbsp;f) Specify the code that should be placed at item labeled <2>.
-&nbsp;&nbsp;&nbsp;&nbsp;g) Specify the code that should be placed at item labeled <3>.
-&nbsp;&nbsp;&nbsp;&nbsp;h) Specify the code that should be placed at item labeled <4>.
+&nbsp;&nbsp;&nbsp;&nbsp;a) Insert the code to create a child process at line 8 of the code in Figure 2 using the variable define at line 7.  
+&nbsp;&nbsp;&nbsp;&nbsp;b) Beginning at line 9 insert the line(s) of code to check for the parent and child process created.  
+&nbsp;&nbsp;&nbsp;&nbsp;c) Insert the code at line 10 in Figure 2 into the child process.  
+&nbsp;&nbsp;&nbsp;&nbsp;d) Insert the code at line 12 in Figure 2 into the parent process.  
+&nbsp;&nbsp;&nbsp;&nbsp;e) Specify the code that should be placed at item labeled <1>.  
+&nbsp;&nbsp;&nbsp;&nbsp;f) Specify the code that should be placed at item labeled <2>.  
+&nbsp;&nbsp;&nbsp;&nbsp;g) Specify the code that should be placed at item labeled <3>.  
+&nbsp;&nbsp;&nbsp;&nbsp;h) Specify the code that should be placed at item labeled <4>.  
 &nbsp;&nbsp;&nbsp;&nbsp;i) Edit the code that have been implemented from question 2a. until 2h. to force the parent process to wait for the child process.  
 
 ---
@@ -140,7 +140,7 @@ int main()
 
 **@blaco**:hugs:: How's life? Did you check out my [GitHub](https://github.com/e-hong-w/)? :worried:  
 **@blaco**:hugs:: Drop me an email for other source code!  
-**@blaco**:hugs:: It's not free, but it worths just a price of a lunch. :shallow_pan_of_food:
+**@blaco**:hugs:: It's not free, but it worths just a price of a lunch. :shallow_pan_of_food:  
 
 <p>
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
