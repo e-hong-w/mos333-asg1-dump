@@ -1,5 +1,3 @@
-<head><meta name="google-site-verification" content="hBg_Jesn-kGfXiNFddyI2_qQQ3MP8_4NraCtoSz0I-4" /></head>
-
 # EKT333 Modern Operating System
 
 In my own words,\
