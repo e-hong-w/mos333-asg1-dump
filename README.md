@@ -153,7 +153,7 @@ int main()
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-[![Making payment?](https://user-images.githubusercontent.com/68590570/114383889-9faeef00-9bc0-11eb-88ed-0777b35df5fa.png)](https://forms.gle/3e6AbU2eJQhvinUEA)
+[![Making payment?](https://user-images.githubusercontent.com/68590570/114384461-5612d400-9bc1-11eb-8da0-25b19e39e951.png)](https://forms.gle/3e6AbU2eJQhvinUEA)
 
 ## 🧸 **Leave me a message?**
 - 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
