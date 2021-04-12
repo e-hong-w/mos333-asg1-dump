@@ -153,8 +153,7 @@ int main()
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-
-<a class="btn" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</a>
+[![Making payment?](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://forms.gle/3e6AbU2eJQhvinUEA)
 
 
 ## 🧸 **Leave me a message?**
