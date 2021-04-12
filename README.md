@@ -153,32 +153,8 @@ int main()
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
 
-
-.button3 {width: 100%;}
-</style>
-</head>
-<body>
-
-<button class="button button3" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</button>
-</body>
-</html>
+<a class="btn" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</a>
 
 
 ## 🧸 **Leave me a message?**
