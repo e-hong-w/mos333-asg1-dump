@@ -153,7 +153,9 @@ int main()
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 .button {
     background-color: #4CAF50; /* Green */
@@ -168,11 +170,15 @@ int main()
     cursor: pointer;
 }
 
+
 .button3 {width: 100%;}
 </style>
+</head>
+<body>
 
 <button class="button button3" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</button>
-
+</body>
+</html>
 
 
 ## 🧸 **Leave me a message?**
