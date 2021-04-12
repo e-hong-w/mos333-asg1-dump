@@ -154,7 +154,7 @@ int main()
 </p>
 
 
-[![Making payment](https://media.giphy.com/media/vpTuttAlsmSOjEjLxo/source.mp4)](https://forms.gle/3e6AbU2eJQhvinUEA)
+<a class="btn" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</a>
 
 
 ## 🧸 **Leave me a message?**
