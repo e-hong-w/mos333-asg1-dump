@@ -153,6 +153,10 @@ int main()
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
+
+[![Making payment](https://media.giphy.com/media/vpTuttAlsmSOjEjLxo/source.mp4)](https://forms.gle/3e6AbU2eJQhvinUEA)
+
+
 ## 🧸 **Leave me a message?**
 - 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
 - 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
