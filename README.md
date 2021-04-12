@@ -154,7 +154,25 @@ int main()
 </p>
 
 
-<a class="btn" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</a>
+<style>
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button3 {width: 100%;}
+</style>
+
+<button class="button button3" href="https://forms.gle/3e6AbU2eJQhvinUEA">Making Payment?</button>
+
 
 
 ## 🧸 **Leave me a message?**
